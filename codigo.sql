@@ -1,7 +1,16 @@
+# Criação da Base de Dados
 create database db_sistema_faculdade;
+
+# Exclusão da Base de Dados
 drop database db_sistema_faculdade;
+
+# Iniciar comandos da Base de Dados
 use db_sistema_faculdade;
+
+# Visualizar a Base de Dados;
 show databases;
+
+# Visualizar as tabelas da Base de Dados
 show tables;
 
 # Criação da Tabela do Aluno
